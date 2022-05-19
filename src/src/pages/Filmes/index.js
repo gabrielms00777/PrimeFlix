@@ -1,9 +1,8 @@
 
-
 function Filmes(){
     return(
         <div>
-            <h1>Pagina Home</h1>
+            <h1>Pagina Detalhes do filme</h1>
         </div>
     )
 }
