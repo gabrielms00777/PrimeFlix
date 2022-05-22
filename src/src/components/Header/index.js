@@ -1,6 +1,6 @@
-import './header.css'
 import { Link } from 'react-router-dom'
-
+import './header.css'
+ 
 function Header(){
     return(
         <header>
@@ -10,4 +10,4 @@ function Header(){
     )
 }
 
-export default Header;
+export default Header   
